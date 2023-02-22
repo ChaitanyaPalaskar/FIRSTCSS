@@ -1,0 +1,49 @@
+body{background:  url(https://wallpaper-house.com/data/out/8/wallpaper2you_291475.jpg) ;
+ block-size: auto;
+max-height: auto;}
+a:hover{
+    background:rgb(2, 106, 143);
+}
+
+.head{margin-top: 0;
+    border-right: 100px solid transparent;
+    align-items: center;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: monospace;
+    position: fixed;
+    top: 0;
+    left: 30px;
+    bottom: 0;
+    right: 0;
+    color: white;
+    height: 6px;
+    width: 100%;}
+
+a{text-decoration: none;
+    color: white;}
+
+p{color: rgb(124, 246, 2);
+    font-family: monospace;
+    font-size: 1.5em;
+margin: 20% 0% 0% 0%;}
+
+h1{color: rgba(255, 255, 255, 0.998);
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+#A01{font-family:serif;
+    text-transform: uppercase;
+    font-size: 2em;
+    color:tomato}
+.footer{ 
+    position: absolute;
+    top:90%;
+    left: 35%;
+    bottom: 50%;
+    
+    margin-bottom:0;
+    margin-top: 100;
+}
